@@ -1,8 +1,11 @@
 #Project-1-EEA
 
 ##Data Source
-[Monitoring of CO2 emissions from passenger cars – Regulation (EU) 2019/631](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-22)
+[Monitoring of CO2 emissions from passenger cars – Regulation (EU) 2019/631](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-22)  
 Used data from 2012-2021 of vehicles registered in Germany with BMW and MINI makes.
 
 ##Data Processing
-Since the raw data was not perfect, I performed data processing using Python, including abnormal value processing, name and format alignment. Then kept only key fields.
+Since the raw data was not perfect, I performed data processing using Python, including abnormal value processing, name and format alignment. Then kept only key fields.  
+
+##Dashboard Preview
+![image](https://github.com/silentli/TableauProjects/blob/bc865861206ec26d33c0c4273dc164b4df2b3e9b/Project-1-EEA/Dashboard.png)
