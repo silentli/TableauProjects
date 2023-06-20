@@ -8,4 +8,4 @@ Used data from 2012-2021 of vehicles registered in Germany with BMW and MINI mak
 Since the raw data was not perfect, I performed data processing using Python, including abnormal value processing, name and format alignment. Then kept only key fields.  
 
 ## Dashboard Preview
-![image](https://github.com/silentli/TableauProjects/blob/167e20e1cf53436ca72a5ffc292f0ac38079df25/Project-1-EEA/Dashboard.png)
+![image](Project-1-EEA/Dashboard.png)
